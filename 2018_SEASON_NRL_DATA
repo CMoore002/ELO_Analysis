@@ -1,0 +1,202 @@
+,Season,Round,Venue,Kick_Off_Time,Home_Team,Home_Score,Away_Team,Away_Score
+0,2018,Round 1,Netstrata Jubilee Stadium,2018-03-08,Dragons,34,Broncos,12
+1,2018,Round 1,McDonald Jones Stadium,2018-03-09,Knights,19,Sea Eagles,18
+2,2018,Round 1,1300SMILES Stadium,2018-03-09,Cowboys,20,Sharks,14
+3,2018,Round 1,Stadium Australia,2018-03-10,Wests Tigers,10,Roosters,8
+4,2018,Round 1,Optus Stadium,2018-03-10,Rabbitohs,20,Warriors,32
+5,2018,Round 1,Optus Stadium,2018-03-10,Bulldogs,18,Storm,36
+6,2018,Round 1,Panthers Stadium,2018-03-11,Panthers,24,Eels,14
+7,2018,Round 1,Cbus Super Stadium,2018-03-11,Titans,30,Raiders,28
+8,2018,Round 2,PointsBet Stadium,2018-03-15,Sharks,16,Dragons,20
+9,2018,Round 2,Allianz Stadium,2018-03-16,Roosters,30,Bulldogs,12
+10,2018,Round 2,Suncorp Stadium,2018-03-16,Broncos,24,Cowboys,20
+11,2018,Round 2,Mt Smart Stadium,2018-03-17,Warriors,20,Titans,8
+12,2018,Round 2,Panthers Stadium,2018-03-17,Panthers,18,Rabbitohs,14
+13,2018,Round 2,AAMI Park,2018-03-17,Storm,8,Wests Tigers,10
+14,2018,Round 2,Lottoland,2018-03-18,Sea Eagles,54,Eels,0
+15,2018,Round 2,GIO Stadium,2018-03-18,Raiders,28,Knights,30
+16,2018,Round 3,AAMI Park,2018-03-22,Storm,30,Cowboys,14
+17,2018,Round 3,Stadium Australia,2018-03-23,Bulldogs,20,Panthers,18
+18,2018,Round 3,Campbelltown Sports Stadium,2018-03-23,Wests Tigers,7,Broncos,9
+19,2018,Round 3,GIO Stadium,2018-03-24,Raiders,19,Warriors,20
+20,2018,Round 3,Stadium Australia,2018-03-24,Rabbitohs,34,Sea Eagles,6
+21,2018,Round 3,Stadium Australia,2018-03-24,Eels,4,Sharks,14
+22,2018,Round 3,Clive Berghofer Stadium,2018-03-25,Titans,8,Dragons,54
+23,2018,Round 3,Allianz Stadium,2018-03-25,Roosters,38,Knights,8
+24,2018,Round 4,1300SMILES Stadium,2018-03-29,Cowboys,14,Panthers,33
+25,2018,Round 4,Stadium Australia,2018-03-30,Rabbitohs,20,Bulldogs,16
+26,2018,Round 4,PointsBet Stadium,2018-03-30,Sharks,14,Storm,4
+27,2018,Round 4,Allianz Stadium,2018-03-31,Roosters,6,Warriors,30
+28,2018,Round 4,Lottoland,2018-03-31,Sea Eagles,32,Raiders,16
+29,2018,Round 4,WIN Stadium,2018-04-01,Dragons,30,Knights,12
+30,2018,Round 4,Suncorp Stadium,2018-04-01,Broncos,14,Titans,26
+31,2018,Round 4,Stadium Australia,2018-04-02,Wests Tigers,30,Eels,20
+32,2018,Round 5,GIO Stadium,2018-04-05,Raiders,26,Bulldogs,10
+33,2018,Round 5,PointsBet Stadium,2018-04-06,Sharks,10,Roosters,28
+34,2018,Round 5,Netstrata Jubilee Stadium,2018-04-06,Dragons,16,Rabbitohs,12
+35,2018,Round 5,Mt Smart Stadium,2018-04-07,Wests Tigers,11,Storm,10
+36,2018,Round 5,Mt Smart Stadium,2018-04-07,Warriors,22,Cowboys,12
+37,2018,Round 5,McDonald Jones Stadium,2018-04-07,Knights,15,Broncos,10
+38,2018,Round 5,Marley Brown Oval,2018-04-08,Titans,32,Sea Eagles,20
+39,2018,Round 5,Stadium Australia,2018-04-08,Eels,6,Panthers,12
+40,2018,Round 6,Allianz Stadium,2018-04-12,Roosters,14,Rabbitohs,26
+41,2018,Round 6,AAMI Park,2018-04-13,Storm,40,Knights,14
+42,2018,Round 6,WIN Stadium,2018-04-13,Dragons,40,Sharks,20
+43,2018,Round 6,Mt Smart Stadium,2018-04-14,Warriors,18,Broncos,27
+44,2018,Round 6,1300SMILES Stadium,2018-04-14,Cowboys,10,Bulldogs,27
+45,2018,Round 6,GIO Stadium,2018-04-14,Raiders,18,Eels,2
+46,2018,Round 6,Panthers Stadium,2018-04-15,Panthers,35,Titans,12
+47,2018,Round 6,Lottoland,2018-04-15,Sea Eagles,12,Wests Tigers,38
+48,2018,Round 7,Stadium Australia,2018-04-19,Bulldogs,0,Roosters,6
+49,2018,Round 7,Mt Smart Stadium,2018-04-20,Warriors,20,Dragons,12
+50,2018,Round 7,Suncorp Stadium,2018-04-20,Broncos,20,Storm,34
+51,2018,Round 7,Central Coast Stadium,2018-04-21,Rabbitohs,42,Raiders,22
+52,2018,Round 7,Scully Park,2018-04-21,Wests Tigers,20,Knights,22
+53,2018,Round 7,1300SMILES Stadium,2018-04-21,Cowboys,26,Titans,14
+54,2018,Round 7,Stadium Australia,2018-04-22,Eels,44,Sea Eagles,10
+55,2018,Round 7,PointsBet Stadium,2018-04-22,Sharks,26,Panthers,22
+56,2018,Round 8,Allianz Stadium,2018-04-25,Dragons,24,Roosters,8
+57,2018,Round 8,AAMI Park,2018-04-25,Storm,50,Warriors,10
+58,2018,Round 8,Stadium Australia,2018-04-26,Rabbitohs,20,Broncos,24
+59,2018,Round 8,Lottoland,2018-04-27,Sea Eagles,12,Knights,18
+60,2018,Round 8,Panthers Stadium,2018-04-27,Panthers,22,Bulldogs,14
+61,2018,Round 8,Cbus Super Stadium,2018-04-28,Titans,9,Sharks,10
+62,2018,Round 8,1300SMILES Stadium,2018-04-28,Cowboys,8,Raiders,18
+63,2018,Round 8,Stadium Australia,2018-04-29,Eels,24,Wests Tigers,22
+64,2018,Round 9,Suncorp Stadium,2018-05-03,Broncos,22,Bulldogs,20
+65,2018,Round 9,McDonald Jones Stadium,2018-05-04,Knights,18,Rabbitohs,36
+66,2018,Round 9,Carrington Park,2018-05-04,Panthers,20,Cowboys,26
+67,2018,Round 9,GIO Stadium,2018-05-05,Raiders,32,Titans,18
+68,2018,Round 9,Mt Smart Stadium,2018-05-05,Warriors,26,Wests Tigers,4
+69,2018,Round 9,PointsBet Stadium,2018-05-05,Sharks,22,Eels,20
+70,2018,Round 9,Netstrata Jubilee Stadium,2018-05-06,Dragons,34,Storm,14
+71,2018,Round 9,Allianz Stadium,2018-05-06,Roosters,22,Sea Eagles,20
+72,2018,Round 10,Leichhardt Oval,2018-05-10,Wests Tigers,20,Cowboys,12
+73,2018,Round 10,McDonald Jones Stadium,2018-05-11,Knights,18,Panthers,29
+74,2018,Round 10,Stadium Australia,2018-05-11,Bulldogs,20,Eels,12
+75,2018,Round 10,Mt Smart Stadium,2018-05-12,Warriors,0,Roosters,32
+76,2018,Round 10,Suncorp Stadium,2018-05-12,Storm,28,Titans,14
+77,2018,Round 10,Suncorp Stadium,2018-05-12,Sea Eagles,38,Broncos,24
+78,2018,Round 10,Stadium Australia,2018-05-13,Rabbitohs,24,Dragons,10
+79,2018,Round 10,GIO Stadium,2018-05-13,Raiders,16,Sharks,24
+80,2018,Round 11,Panthers Stadium,2018-05-17,Panthers,16,Wests Tigers,2
+81,2018,Round 11,Stadium Australia,2018-05-18,Eels,14,Warriors,24
+82,2018,Round 11,Suncorp Stadium,2018-05-18,Broncos,28,Roosters,22
+83,2018,Round 11,Cbus Super Stadium,2018-05-19,Titans,33,Knights,26
+84,2018,Round 11,1300SMILES Stadium,2018-05-19,Cowboys,19,Rabbitohs,20
+85,2018,Round 11,AAMI Park,2018-05-19,Storm,4,Sea Eagles,24
+86,2018,Round 11,Glen Willow Oval,2018-05-20,Dragons,25,Raiders,18
+87,2018,Round 11,PointsBet Stadium,2018-05-20,Sharks,22,Bulldogs,16
+88,2018,Round 12,Suncorp Stadium,2018-05-24,Broncos,18,Eels,10
+89,2018,Round 12,GIO Stadium,2018-05-25,Raiders,21,Sea Eagles,20
+90,2018,Round 12,1300SMILES Stadium,2018-05-25,Cowboys,6,Storm,7
+91,2018,Round 12,Central Coast Stadium,2018-05-26,Roosters,34,Titans,14
+92,2018,Round 12,Mt Smart Stadium,2018-05-26,Warriors,10,Rabbitohs,30
+93,2018,Round 12,Panthers Stadium,2018-05-26,Panthers,28,Dragons,2
+94,2018,Round 12,McDonald Jones Stadium,2018-05-27,Knights,10,Sharks,48
+95,2018,Round 12,Stadium Australia,2018-05-27,Wests Tigers,14,Bulldogs,10
+96,2018,Round 13,Lottoland,2018-05-31,Sea Eagles,12,Cowboys,26
+97,2018,Round 13,Stadium Australia,2018-06-01,Rabbitohs,22,Sharks,14
+98,2018,Round 13,Stadium Australia,2018-06-02,Eels,4,Knights,30
+99,2018,Round 13,Allianz Stadium,2018-06-03,Roosters,16,Wests Tigers,14
+100,2018,Round 14,GIO Stadium,2018-06-08,Raiders,22,Panthers,23
+101,2018,Round 14,Cbus Super Stadium,2018-06-08,Titans,16,Rabbitohs,18
+102,2018,Round 14,Christchurch Stadium,2018-06-09,Sea Eagles,14,Warriors,34
+103,2018,Round 14,McDonald Jones Stadium,2018-06-09,Knights,16,Roosters,18
+104,2018,Round 14,TIO Stadium,2018-06-09,Eels,20,Cowboys,14
+105,2018,Round 14,PointsBet Stadium,2018-06-10,Sharks,24,Wests Tigers,16
+106,2018,Round 14,AAMI Park,2018-06-10,Storm,32,Broncos,16
+107,2018,Round 14,Stadium Australia,2018-06-11,Bulldogs,16,Dragons,18
+108,2018,Round 15,Stadium Australia,2018-06-14,Eels,24,Rabbitohs,42
+109,2018,Round 15,1300SMILES Stadium,2018-06-15,Cowboys,16,Warriors,23
+110,2018,Round 15,Allianz Stadium,2018-06-15,Roosters,32,Panthers,6
+111,2018,Round 15,Belmore Sports Ground,2018-06-16,Bulldogs,10,Titans,32
+112,2018,Round 15,WIN Stadium,2018-06-16,Dragons,32,Sea Eagles,8
+113,2018,Round 15,PointsBet Stadium,2018-06-16,Sharks,16,Broncos,20
+114,2018,Round 15,McDonald Jones Stadium,2018-06-17,Knights,10,Storm,28
+115,2018,Round 15,Campbelltown Sports Stadium,2018-06-17,Wests Tigers,12,Raiders,48
+116,2018,Round 16,WIN Stadium,2018-06-28,Dragons,20,Eels,18
+117,2018,Round 16,Mt Smart Stadium,2018-06-29,Warriors,15,Sharks,18
+118,2018,Round 16,Adelaide Oval,2018-06-29,Roosters,8,Storm,9
+119,2018,Round 16,Panthers Stadium,2018-06-30,Panthers,10,Sea Eagles,18
+120,2018,Round 16,McDonald Jones Stadium,2018-06-30,Knights,16,Bulldogs,36
+121,2018,Round 16,Suncorp Stadium,2018-06-30,Broncos,26,Raiders,22
+122,2018,Round 16,Leichhardt Oval,2018-07-01,Wests Tigers,12,Titans,30
+123,2018,Round 16,Barlow Park,2018-07-01,Rabbitohs,21,Cowboys,20
+124,2018,Round 17,AAMI Park,2018-07-05,Storm,52,Dragons,30
+125,2018,Round 17,Panthers Stadium,2018-07-06,Panthers,36,Warriors,4
+126,2018,Round 17,Belmore Sports Ground,2018-07-07,Bulldogs,28,Raiders,32
+127,2018,Round 17,Cbus Super Stadium,2018-07-08,Titans,0,Broncos,34
+128,2018,Round 18,Panthers Stadium,2018-07-13,Panthers,12,Sharks,24
+129,2018,Round 18,McDonald Jones Stadium,2018-07-13,Knights,18,Eels,16
+130,2018,Round 18,Stadium Australia,2018-07-14,Bulldogs,6,Rabbitohs,24
+131,2018,Round 18,Lottoland,2018-07-14,Sea Eagles,13,Storm,14
+132,2018,Round 18,GIO Stadium,2018-07-14,Raiders,38,Cowboys,12
+133,2018,Round 18,Suncorp Stadium,2018-07-15,Broncos,6,Warriors,26
+134,2018,Round 18,Netstrata Jubilee Stadium,2018-07-15,Dragons,16,Wests Tigers,20
+135,2018,Round 18,Cbus Super Stadium,2018-07-15,Titans,12,Roosters,20
+136,2018,Round 19,Stadium Australia,2018-07-19,Eels,14,Bulldogs,8
+137,2018,Round 19,PointsBet Stadium,2018-07-20,Sharks,28,Raiders,24
+138,2018,Round 19,Suncorp Stadium,2018-07-20,Broncos,50,Panthers,18
+139,2018,Round 19,McDonald Jones Stadium,2018-07-21,Knights,30,Titans,24
+140,2018,Round 19,Stadium Australia,2018-07-21,Wests Tigers,22,Rabbitohs,6
+141,2018,Round 19,1300SMILES Stadium,2018-07-21,Cowboys,10,Dragons,24
+142,2018,Round 19,Mt Smart Stadium,2018-07-22,Warriors,6,Storm,12
+143,2018,Round 19,Lottoland,2018-07-22,Sea Eagles,24,Roosters,56
+144,2018,Round 20,Suncorp Stadium,2018-07-26,Broncos,12,Sharks,10
+145,2018,Round 20,1300SMILES Stadium,2018-07-27,Cowboys,20,Knights,18
+146,2018,Round 20,Stadium Australia,2018-07-27,Bulldogs,16,Wests Tigers,4
+147,2018,Round 20,Lottoland,2018-07-28,Sea Eagles,24,Panthers,28
+148,2018,Round 20,Stadium Australia,2018-07-28,Rabbitohs,26,Eels,20
+149,2018,Round 20,AAMI Park,2018-07-28,Storm,44,Raiders,10
+150,2018,Round 20,Cbus Super Stadium,2018-07-29,Titans,36,Warriors,12
+151,2018,Round 20,Allianz Stadium,2018-07-29,Roosters,36,Dragons,18
+152,2018,Round 21,Stadium Australia,2018-08-02,Bulldogs,36,Broncos,22
+153,2018,Round 21,McDonald Jones Stadium,2018-08-03,Knights,16,Wests Tigers,25
+154,2018,Round 21,Stadium Australia,2018-08-03,Rabbitohs,30,Storm,20
+155,2018,Round 21,WIN Stadium,2018-08-04,Dragons,12,Warriors,18
+156,2018,Round 21,Stadium Australia,2018-08-04,Eels,28,Titans,12
+157,2018,Round 21,Allianz Stadium,2018-08-04,Roosters,26,Cowboys,20
+158,2018,Round 21,PointsBet Stadium,2018-08-05,Sharks,32,Sea Eagles,33
+159,2018,Round 21,Panthers Stadium,2018-08-05,Panthers,40,Raiders,31
+160,2018,Round 22,1300SMILES Stadium,2018-08-09,Cowboys,34,Broncos,30
+161,2018,Round 22,Mt Smart Stadium,2018-08-10,Warriors,20,Knights,4
+162,2018,Round 22,Stadium Australia,2018-08-10,Rabbitohs,14,Roosters,18
+163,2018,Round 22,Cbus Super Stadium,2018-08-11,Titans,16,Panthers,17
+164,2018,Round 22,Lottoland,2018-08-11,Sea Eagles,18,Bulldogs,6
+165,2018,Round 22,Stadium Australia,2018-08-11,Eels,40,Dragons,4
+166,2018,Round 22,GIO Stadium,2018-08-12,Raiders,20,Wests Tigers,22
+167,2018,Round 22,AAMI Park,2018-08-12,Storm,14,Sharks,17
+168,2018,Round 23,Suncorp Stadium,2018-08-16,Broncos,38,Rabbitohs,18
+169,2018,Round 23,Lottoland,2018-08-17,Sea Eagles,34,Titans,42
+170,2018,Round 23,AAMI Park,2018-08-17,Storm,20,Eels,4
+171,2018,Round 23,Panthers Stadium,2018-08-18,Panthers,12,Knights,20
+172,2018,Round 23,Leichhardt Oval,2018-08-18,Wests Tigers,10,Dragons,20
+173,2018,Round 23,PointsBet Stadium,2018-08-18,Sharks,28,Cowboys,16
+174,2018,Round 23,Stadium Australia,2018-08-19,Bulldogs,27,Warriors,26
+175,2018,Round 23,GIO Stadium,2018-08-19,Raiders,14,Roosters,12
+176,2018,Round 24,Campbelltown Sports Stadium,2018-08-23,Wests Tigers,22,Sea Eagles,20
+177,2018,Round 24,Mt Smart Stadium,2018-08-24,Warriors,36,Panthers,16
+178,2018,Round 24,1300SMILES Stadium,2018-08-24,Cowboys,44,Eels,6
+179,2018,Round 24,GIO Stadium,2018-08-25,Raiders,24,Rabbitohs,12
+180,2018,Round 24,Cbus Super Stadium,2018-08-25,Titans,8,Storm,10
+181,2018,Round 24,Allianz Stadium,2018-08-25,Roosters,8,Broncos,22
+182,2018,Round 24,PointsBet Stadium,2018-08-26,Sharks,38,Knights,12
+183,2018,Round 24,Netstrata Jubilee Stadium,2018-08-26,Dragons,0,Bulldogs,38
+184,2018,Round 25,Stadium Australia,2018-08-30,Rabbitohs,51,Wests Tigers,10
+185,2018,Round 25,Mt Smart Stadium,2018-08-31,Warriors,20,Raiders,16
+186,2018,Round 25,AAMI Park,2018-08-31,Storm,16,Panthers,22
+187,2018,Round 25,McDonald Jones Stadium,2018-09-01,Knights,14,Dragons,24
+188,2018,Round 25,Cbus Super Stadium,2018-09-01,Titans,26,Cowboys,30
+189,2018,Round 25,Stadium Australia,2018-09-01,Eels,10,Roosters,44
+190,2018,Round 25,Stadium Australia,2018-09-02,Bulldogs,18,Sharks,30
+191,2018,Round 25,Suncorp Stadium,2018-09-02,Broncos,48,Sea Eagles,16
+192,2018,Finals Week 1,AAMI Park,2018-09-07,Storm,29,Rabbitohs,28
+193,2018,Finals Week 1,Stadium Australia,2018-09-08,Panthers,27,Warriors,12
+194,2018,Finals Week 1,Allianz Stadium,2018-09-08,Roosters,21,Sharks,12
+195,2018,Finals Week 1,Suncorp Stadium,2018-09-09,Broncos,18,Dragons,48
+196,2018,Finals Week 2,Allianz Stadium,2018-09-14,Sharks,21,Panthers,20
+197,2018,Finals Week 2,Stadium Australia,2018-09-15,Rabbitohs,13,Dragons,12
+198,2018,Finals Week 3,AAMI Park,2018-09-21,Storm,22,Sharks,6
+199,2018,Finals Week 3,Allianz Stadium,2018-09-22,Roosters,12,Rabbitohs,4
+200,2018,Grand Final,Stadium Australia,2018-09-30,Roosters,21,Storm,6
